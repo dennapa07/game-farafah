@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-image: url(120.jpg);
+    background-size: cover;
+    background-color: rgb(226, 248, 255);
+    border-bottom: 20px solid rgb(0, 0, 0);
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: 600px;
+    margin-top: 20px;
+    background-color: brown;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: darkred;
+    color: rgb(255, 255, 255);
+}
